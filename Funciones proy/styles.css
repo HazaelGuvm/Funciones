@@ -1,0 +1,11 @@
+.circulo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 20px;
+    background-color: gray;
+}
+.rojo{ background-color: red; }
+.amarillo{ background-color: yellow; }
+.verde{ background-color: green; }
+
